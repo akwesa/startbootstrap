@@ -1,10 +1,7 @@
-# Site Information
-license:          "MIT"
-license-url:      "https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE"
-author:           "Blackrock Digital"
+
 
 # Site Settings
-baseurl:          ""
+baseurl:          "akwesa.github.io"
 
 # Build settings
 exclude:          [node_modules]
@@ -17,7 +14,7 @@ highlighter:      rouge
 permalink:        /articles/:year/:month/:day/:title/
 
 # Server
-url:              https://startbootstrap.com
+url:              https://akwesa.github.io
 enforce_ssl:      startbootstrap.com
 encoding:         UTF-8
 host:             localhost
